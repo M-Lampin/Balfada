@@ -10,8 +10,6 @@ Fan de foot, Sharky passe son temps à jongler et réaliser des acrobaties avec 
  
 **Plateformes :** Pc, Switch (motion control envisagé)
 
-**Marché cible :** Casual gamer fan de jeu de combat et de rythme, appréciant les jeux un peu déjantés.
-
 **Technologies :** à déterminer avec l'équipe prog et I3D
 
  ## Contacts
