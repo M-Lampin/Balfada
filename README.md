@@ -23,3 +23,12 @@ Si le projet vous intéresse, vous êtes invités à me contacter sur les résea
  - **Discord :** belgenerveux
  - **Github :** M-Lampin
  
+
+## A faire : Réalisation du GCD
+- Détailler histoire/narration
+- Détailler intentions de réalisation
+- Détailler contrôles + 3C + mockups contrôles
+- Détailler Core gameplay : différentes mécaniques, différentes séquences ludiques, exploration, points de style + schémas 
+- Schémas boucles de jeu
+- Détailler conditions de victoire/défaite
+- Moodboard sonore, environnement, personnage...
